@@ -1,4 +1,4 @@
-# Monthly Sales Dashboard (Excel)
+# Monthly Sales Dashboard using Microsoft Excel
 Interactive Monthly Sales Dashboard built using Microsoft Excel.
 
 ## Project Overview
@@ -23,6 +23,16 @@ This project is an interactive Monthly Sales Dashboard created using Microsoft E
 - Pivot Charts
 - Slicers
 - Conditional Formatting
+
+## Skills Demonstrated
+
+- Data Cleaning
+- Data Visualization
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- KPI Dashboard Design
+- Business Analysis
 
 ## Business Insights
 
